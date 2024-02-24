@@ -1,20 +1,20 @@
 <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h2 style="text-align:center"> You are Encouraged to Login with Social Media or Manually</h2>
+      <h2 style="text-align:center"> Login with Social Media or Manually</h2>
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login with Facebook
+          <i class="fa fa-facebook fa-fw"></i> Login using Facebook
         </a>
         <a href="#" class="twitter btn">
-          <i class="fa fa-twitter fa-fw"></i> Login with Twitter
+          <i class="fa fa-twitter fa-fw"></i> Login using Twitter
         </a>
         <a href="#" class="google btn">
-          <i class="fa fa-google fa-fw"></i> Login with Google+
+          <i class="fa fa-google fa-fw"></i> Login using Google+
         </a>
       </div>
 
