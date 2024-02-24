@@ -23,12 +23,12 @@
           <p>Or sign in manually:</p>
         </div>
 
-        <input type="text" name="username" placeholder="Username" required>
+        <input type="text" name="enter username" placeholder="enter Username" required>
 	<br>
 	<br>
 	<br>
 	<br>
-        <input type="password" name="password" placeholder="Password" required>
+        <input type="password" name="enter password" placeholder="enter Password" required>
         <input type="submit" value="Login">
       </div>
 
