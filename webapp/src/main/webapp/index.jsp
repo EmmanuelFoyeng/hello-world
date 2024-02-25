@@ -8,10 +8,10 @@
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login using Facebook
+          <i class="fa fa-facebook fa-fw"></i> Welcome to Facebook, Please Log in
         </a>
         <a href="#" class="twitter btn">
-          <i class="fa fa-twitter fa-fw"></i> Login using Twitter
+          <i class="fa fa-twitter fa-fw"></i> Welcome to Twitter, please log in
         </a>
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login using Google+
